@@ -2,7 +2,7 @@
 
 include 'db_connect.php';  //include the db_connect.php file
 
-print "<HTML><BODY><IMG SRC='https://elasticbox.com/services/blobs/download/543498b916977e6c5de490b8/lampEstackEicon.jpg'/><H1>Showing the users of the sampledb</H1>\n";
+print "<HTML><BODY><IMG SRC='https://elasticbox.com/services/blobs/download/543498b916977e6c5de490b8/lampEstackEicon.jpg'/><H1> #2: Showing the users of the sampledb</H1>\n";
 
 //Create and set a new connection
 $get = new Connection("db1"); //"db1" is user defined in db_connect.php
